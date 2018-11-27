@@ -1,3 +1,7 @@
+# Simple Counter App
+
+A simple counter app modeling an online retail shopping cart.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
